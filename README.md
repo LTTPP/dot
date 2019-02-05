@@ -1,3 +1,7 @@
 # dot
 
-A framework to connect everything
+A channel to connect everything.
+
+- A framework to connect endpoints
+- A channel to connect people to news
+- A channel to connect people
